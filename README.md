@@ -10,7 +10,7 @@ Scripts to work with wordclounds
 
 ### text2frequency.py
 
-![Image not found](Images/text2frequency.png){:height="700px" width="400px"}
+![Image not found](Images/text2frequency.png){:height="156px" width="412px"}
 
 ### text2word_cloud.py
 ### text2word_cloud_frequency.py
