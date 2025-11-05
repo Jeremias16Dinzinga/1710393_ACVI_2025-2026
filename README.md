@@ -7,3 +7,7 @@ Same basic scripts in python
 
 ## WordClounds
 Scripts to work with wordclounds
+
+### text2frequency.py
+### text2word_cloud.py
+### text2word_cloud_frequency.py
