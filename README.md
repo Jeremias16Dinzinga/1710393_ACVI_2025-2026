@@ -9,5 +9,8 @@ Same basic scripts in python
 Scripts to work with wordclounds
 
 ### text2frequency.py
+
+![Image not found](http://images/Execução do script (text2frequency).png)
+
 ### text2word_cloud.py
 ### text2word_cloud_frequency.py
