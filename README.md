@@ -18,4 +18,4 @@ Scripts to work with wordclounds
 
 ### text_image2_word_cloud.py
 
-Choose an image as mask,'<image>'_mask.png, and take a text for that image, '<image>'.text, the script allows you to adjust the text to the image
+Choose an image as mask,<'image'>_mask.png, and take a text for that image, <'image'>.text, the script allows you to adjust the text to the image
