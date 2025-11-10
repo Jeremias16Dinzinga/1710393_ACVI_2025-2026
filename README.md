@@ -24,6 +24,12 @@ Add two images `<path\img.png>`, `<path/img2.png>`
 
 <img src="Images/add_two_images_v1.png" width="600" height="700"/>
 
+## generating_images_v1.py
+
+Generate a certain number of copies of an image
+
+<img src="Images/generating_images_v1.png" width="600" height="700"/>
+
 ### text2word_cloud.py
 
 ### text2word_cloud_frequency.py
