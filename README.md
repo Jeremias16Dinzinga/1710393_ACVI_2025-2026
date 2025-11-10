@@ -20,4 +20,4 @@ Scripts to work with wordclounds
 
 Choose an image as mask, `<image>`_mask.png, and take a text for that image, `<image>`.text, the script allows you to adjust the text to the image
 
-<img src="Images/text_image2_word_cloud.png" width="400" height="500"/>
+<img src="Images/text_image2_word_cloud.png" width="600" height="700"/>
