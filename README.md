@@ -21,3 +21,9 @@ Scripts to work with wordclounds
 Choose an image as mask, `<image>`_mask.png, and take a text for that image, `<image>`.text, the script allows you to adjust the text to the image
 
 <img src="Images/text_image2_word_cloud.png" width="600" height="700"/>
+
+### add_two_images_v1.py
+
+Add two images `<path\img.png>`, `<path/img2.png>`
+
+<img src="Images/add_two_images_v1.png" width="600" height="700"/>
